@@ -1,0 +1,48 @@
+
+/* style all elements in the <body> */
+body {
+    background-image: url(http://cdn.osxdaily.com/wp-content/uploads/2014/09/bokeh-wallpaper-2.jpg);
+    background-size: cover;
+    font-family: Futura;
+
+
+}
+
+/* style all the buttons in a page */
+button {
+    font-size: 14px;
+    width: 200px;
+    height: 30px;
+    font-family: Futura;
+}
+
+input {
+    font-size: 14px;
+    font-family: Futura;
+}
+
+select {
+    font-size: 14px;
+    font-family: Futura;
+}
+
+#output {
+    font-size: 33px;
+    vertical-align: middle;
+    color: floralwhite;
+
+    /*font-weight: bold;*/
+}
+
+#zodiac {
+    font-size: 70px;
+    color: aliceblue;
+    font-family: Didot;
+}
+
+
+
+#image {
+    width: auto;
+    height: auto;
+}
